@@ -1,0 +1,5 @@
+settings = {
+    'PREFIX': '$',
+    'TOKEN': "",
+    'CHANNEL': ""
+}
